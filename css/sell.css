@@ -1,0 +1,87 @@
+.top-section .thisiman img{
+    position: absolute;
+    top: -60;
+    bottom: 0px;
+    width: 80%;
+    right: 0;
+}
+
+.top-section .left-section .jumbotron{
+    padding: 20px 20px 25px 20px;
+  
+      overflow: hidden;
+    
+      border-radius: 12px;
+      
+  }
+  
+ 
+  
+  .top-section .left-section  .allinbuell  label{
+    font-size: 14px;
+    margin-left: 16px;
+    color: #000;
+    margin-bottom: 4px;
+    font-weight: 400;
+  }
+  .top-section .left-section  .allinbuell .input-group .btn{
+    padding:10px 5px 10px 5px;
+    height: 48px;
+    border-right: none;
+    background: #00a4ff;
+    outline: none;
+    border: 1px solid rgba(0,0,0,0);
+    box-shadow: none;
+    border-radius:10px 0px 0px 10px;
+  }
+  .top-section .left-section  .allinbuell .input-group .btn p{
+    font-size: 10px;
+    font-weight: 700;
+    padding: 0;
+    margin: 0;
+    margin-top: 2px;
+    color: #fff;
+  }
+  
+  .top-section .left-section  .allinbuell .input-group input{
+    height: 48px;
+    border:1px solid rgba(0,0,0,0);
+    border-left: none;
+    outline: none;
+    box-shadow: none;
+    font-size: 20px;
+    border-radius:0px 10px 10px 0px;
+  }
+  
+  
+  .top-section  .left-section  .allinbuell .btn-block{
+    height: 48px;
+    border-right: none;
+    background: #fff;
+    color: #000;
+    outline: none;
+    padding-top: 13px;
+    font-size: 16px;
+    border: 1px solid rgba(0,0,0,0);
+    box-shadow: none;
+    border-radius:10px;
+  }
+  
+  .top-section  .left-section  .allinbuell .btn-block i{
+    float: right;
+    margin-right: 10px;
+    color: #000;
+    margin-top: 4px;
+  }
+  
+  @media screen and (max-width:1192px) {
+    .top-section .thisiman img{
+        display: none;
+    }
+  }
+  @media screen and (max-width:768px) {
+ .top-section .left-section .allinbuell .btn-block{
+     margin-top: 10px;
+ }
+  }
+ 

@@ -1,0 +1,173 @@
+.footerof{
+   margin-top: 50px;
+ }
+ 
+.footer__column-container {
+   font-size: 14px;
+   line-height: 22px;}
+   .contact-details {
+      margin-bottom: 24px;
+  }
+
+  .contact-details__title {
+   font-size: 18px;
+   line-height: 28px;
+   font-weight: 700;
+   display: block;
+   margin-bottom: 16px;
+}
+.contact-details__time {
+   margin-bottom: 12px;
+   font-weight: 400;
+}
+.contact-details__links {
+   list-style: none;
+   margin-top: 0;
+   margin-bottom: 16px;
+   padding-left: 0;
+}
+.contact-details__links:hover{
+   color: rgba(0,0,0,.7);
+}
+.contact-details__info {
+   color: rgba(0,0,0,.62);
+}
+.footer__social-media-link {
+   color: rgba(0,0,0,.62);
+   margin-right: 24px;
+   text-decoration: none;
+}
+.footerof i.icon {
+   display: inline-block;
+   vertical-align: middle;
+   width: 24px;
+   height: 24px;
+}
+
+.footer__link-list {
+   margin: 0;
+   list-style-type: none;
+}
+.footer__list-item {
+   padding-left: 0;
+   padding-bottom: 8px;
+}
+.footer__list-item a {
+   color: rgba(0,0,0,.87);
+}
+
+.trustpilot--footer-layout {
+   align-self: flex-start;
+}
+
+.footerof .trustpilot {
+   font-size: 18px;
+   line-height: 28px;
+   align-items: center;
+   justify-content: flex-start;
+   display: flex;
+}
+.trustpilot--footer-layout .trustpilot__link {
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+   margin-left: 0;
+   margin-top: 8px;
+}
+.trustpilot__logo--footer-layout {
+   max-height: 32px;
+   width: 132px;
+   margin-bottom: 8px;
+}
+.trustpilot--footer-layout .trustpilot__stars {
+   margin-top: 8px;
+}
+.trustpilot__logo--dark-color__wording {
+   fill: #212224;
+}
+.footer-smallprint__legal-link {
+   color: rgba(0,0,0,.87);
+   display: inline-block;
+}
+
+
+
+
+
+.footer-smallprint__legal {
+   display: flex;
+   justify-content: space-between;
+}
+.footer-smallprint__legal {
+   margin-bottom: 32px;
+}
+.footer-smallprint__copyright, .footer-smallprint__legal {
+   color: rgba(0,0,0,.62);
+}
+.footer-smallprint__copyright {
+   margin-right: 24px;
+}
+.footer-smallprint__legal-link:not(:last-child) {
+   margin-right: 12px;
+}
+.footer-smallprint__legal-link {
+   color: rgba(0,0,0,.87);
+   display: inline-block;
+}
+
+
+
+
+.footer__international-site-list {
+   display: flex;
+   margin-bottom: 32px;
+   padding-left: 0;
+}
+.footer__international-site {
+   font-size: 14px;
+   line-height: 22px;
+   margin-right: 16px;
+   display: flex;
+   padding-left: 0;
+}
+
+.footer__international-site-link {
+   display: flex;
+   align-items: center;
+   color: rgba(0,0,0,.87);
+}
+.footer__international-site-link:hover{
+   color: rgba(0,0,0,.7);
+}
+.flag--uk {
+   background-image: url(https://www-assets.carwow.co.uk/packs/media/flags/uk-ef3be2af.svg);
+}
+.footer__international-site-icon {
+   display: inline-flex;
+   flex-shrink: 0;
+   justify-content: center;
+   margin-right: 4px;
+   background-size: contain;
+   background-position: 50%;
+   -webkit-clip-path: circle();
+   clip-path: circle();
+   height: 16px;
+   width: 24px;
+}
+.flag--de {
+   background-image: url(https://www-assets.carwow.co.uk/packs/media/flags/de-3ff10f32.svg);
+}
+.flag--es {
+   background-image: url(https://www-assets.carwow.co.uk/packs/media/flags/es-574076e5.svg);
+}
+
+.footer-fca {
+   color: rgba(0,0,0,.62);
+   margin-top: 0;
+   margin-bottom: 0;
+}
+
+.footer-fca a {
+   color: rgba(0,0,0,.62);
+   text-decoration: underline;
+}
